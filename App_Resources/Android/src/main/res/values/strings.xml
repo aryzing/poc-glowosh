@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MVP Glowosh</string>
-    <string name="title_activity_kimera">MVP Glowosh</string>
+    <string name="app_name">POC Glowosh</string>
+    <string name="title_activity_kimera">POC Glowosh</string>
 </resources>
