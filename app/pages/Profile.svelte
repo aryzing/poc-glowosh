@@ -3,12 +3,10 @@
   import Home from "./Home.svelte";
   import Cars from "./Cars.svelte";
   import History from "./History.svelte";
-
-  // ~/assets/eduard.jpg
 </script>
 
 <page>
-  <actionBar title="History" />
+  <actionBar title="Profile" />
 
   <flexboxLayout flexDirection="column">
     <flexboxLayout flexGrow={1} flexDirection="column">
